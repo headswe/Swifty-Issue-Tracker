@@ -2,4 +2,4 @@
 Swifty Issue Tracker
 
 
-Just a issue tracker for Swifty.
+Just an issue tracker for Swifty.
